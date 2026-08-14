@@ -122,7 +122,7 @@ medidaB = float(input("digite a medida B: "))
 medidaC = float(input("digite a medida C: "))
 
 calculo_medidaA =  (medidaA * medidaA)
-calculo_medidaB = (medidaB + medidaB)
+calculo_medidaB = (medidaA * medidaB) / 2
 calculo_medidaC = (medidaA + medidaB) * medidaC /2
 
 print(f"Area do quadrado: {calculo_medidaA:.4f}")
