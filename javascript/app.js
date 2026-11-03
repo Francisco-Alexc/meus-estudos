@@ -1,0 +1,1 @@
+console.log("obd pela ajuda, chat GPT");
